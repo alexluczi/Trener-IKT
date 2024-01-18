@@ -1,0 +1,15 @@
+/Users/luczialex/Projects/Trener/Trener/bin/Debug/net7.0/Trener
+/Users/luczialex/Projects/Trener/Trener/bin/Debug/net7.0/Trener.deps.json
+/Users/luczialex/Projects/Trener/Trener/bin/Debug/net7.0/Trener.runtimeconfig.json
+/Users/luczialex/Projects/Trener/Trener/bin/Debug/net7.0/Trener.dll
+/Users/luczialex/Projects/Trener/Trener/bin/Debug/net7.0/Trener.pdb
+/Users/luczialex/Projects/Trener/Trener/obj/Debug/net7.0/Trener.csproj.AssemblyReference.cache
+/Users/luczialex/Projects/Trener/Trener/obj/Debug/net7.0/Trener.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luczialex/Projects/Trener/Trener/obj/Debug/net7.0/Trener.AssemblyInfoInputs.cache
+/Users/luczialex/Projects/Trener/Trener/obj/Debug/net7.0/Trener.AssemblyInfo.cs
+/Users/luczialex/Projects/Trener/Trener/obj/Debug/net7.0/Trener.csproj.CoreCompileInputs.cache
+/Users/luczialex/Projects/Trener/Trener/obj/Debug/net7.0/Trener.dll
+/Users/luczialex/Projects/Trener/Trener/obj/Debug/net7.0/refint/Trener.dll
+/Users/luczialex/Projects/Trener/Trener/obj/Debug/net7.0/Trener.pdb
+/Users/luczialex/Projects/Trener/Trener/obj/Debug/net7.0/Trener.genruntimeconfig.cache
+/Users/luczialex/Projects/Trener/Trener/obj/Debug/net7.0/ref/Trener.dll
