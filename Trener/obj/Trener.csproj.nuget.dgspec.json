@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/luczialex/Projects/Trener/Trener/Trener.csproj": {}
+    "/Users/luczialex/Documents/GitHub/Trener-IKT/Trener/Trener.csproj": {}
   },
   "projects": {
-    "/Users/luczialex/Projects/Trener/Trener/Trener.csproj": {
+    "/Users/luczialex/Documents/GitHub/Trener-IKT/Trener/Trener.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/luczialex/Projects/Trener/Trener/Trener.csproj",
+        "projectUniqueName": "/Users/luczialex/Documents/GitHub/Trener-IKT/Trener/Trener.csproj",
         "projectName": "Trener",
-        "projectPath": "/Users/luczialex/Projects/Trener/Trener/Trener.csproj",
+        "projectPath": "/Users/luczialex/Documents/GitHub/Trener-IKT/Trener/Trener.csproj",
         "packagesPath": "/Users/luczialex/.nuget/packages/",
-        "outputPath": "/Users/luczialex/Projects/Trener/Trener/obj/",
+        "outputPath": "/Users/luczialex/Documents/GitHub/Trener-IKT/Trener/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/luczialex/.nuget/NuGet/NuGet.Config"
